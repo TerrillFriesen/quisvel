@@ -1,0 +1,37 @@
+{
+  "name": "quisvel",
+  "version": "1.0.0",
+  "description": "TypeScript wrapper for the tesseract.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "directories": {
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TerrillFriesen/quisvel.git"
+  },
+  "keywords": [
+    "quos",
+    "vero",
+    "delectus",
+    "quos",
+    "voluptatum"
+  ],
+  "author": "KoryBradtke",
+  "license": "MIT",
+  "dependencies": {
+    "@types/tesseract.js": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^12.0.0",
+    "tesseract.js": "^1.0.19"
+  },
+  "peerDependencies": {
+    "tesseract.js": "^1.0.10"
+  },
+  "bugs": {
+    "url": "https://github.com/TerrillFriesen/quisvel.git/issues"
+  },
+  "homepage": "https://github.com/TerrillFriesen/quisvel.git"
+}
